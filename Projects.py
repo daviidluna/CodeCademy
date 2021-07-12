@@ -33,3 +33,34 @@ print('Customer One Items:')
 print(customer_one_itemization)
 print('Customer One Total:')
 print(customer_one_total)
+
+# Project 3: Sal's shipping
+weight = 41.5
+
+#ground shipping
+if weight <= 2:
+    cost_ground = weight * 1.50 + 20.00
+if weight <= 6:
+    cost_ground = weight * 3.00 + 20.00
+if weight <= 10:
+    cost_ground = weight * 4.00 + 20.00
+else:
+    cost_ground = weight * 4.75 + 20.00
+print(cost_ground)
+
+premium_ground_shipping = 125.00
+print(premium_ground_shipping)
+
+#drone shipping
+if weight <= 2:
+    cost_drone = weight * 4.50 
+if weight <= 6:
+    cost_drone = weight * 9.00
+if weight <= 10:
+    cost_drone = weight * 12.00
+else:
+    cost_drone = weight * 14.25
+print(cost_drone)
+
+
+
