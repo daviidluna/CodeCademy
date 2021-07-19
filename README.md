@@ -10,3 +10,6 @@
 
 # Project 3: Sal's Shipping
 - Write a shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
+
+# Project 4: Gradebook
+- You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
