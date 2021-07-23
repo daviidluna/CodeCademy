@@ -13,3 +13,6 @@
 
 # Project 4: Gradebook
 - You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
+
+# Project 5: Len's Slice
+- You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
